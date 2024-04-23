@@ -1,4 +1,3 @@
-### Developer
 
 <!--
 **zanz9/zanz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanz9&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanz9&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanz9&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanz9&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanz9&theme=solarized_dark)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanz9&theme=solarized_dark" alt="Profile Details">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanz9&theme=solarized_dark" alt="Most Commit Language">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanz9&theme=solarized_dark" alt="Repos Per Language">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanz9&theme=solarized_dark" alt="Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanz9&theme=solarized_dark" alt="Productive Time">
+</div>
